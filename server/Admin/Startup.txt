@@ -1,0 +1,3 @@
+vars.serverName "change_server_name_to_your_own_one"
+vars.friendlyFire true
+vars.gamePassword "change_password_to_your_own_one"
